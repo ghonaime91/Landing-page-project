@@ -11,6 +11,6 @@ And nanodegree from Udacity
 4- Add an active state to navigation items when a section is in the viewport.
 5- It was taken into account that the code is high-performance.
 
-## All work was done in the app.js file inside the Js folder 
+** All work was done in the app.js file inside the Js folder **
 
 
